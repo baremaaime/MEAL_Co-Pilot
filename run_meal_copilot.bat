@@ -1,0 +1,2 @@
+set OPENAI_API_KEY="OPNEAI API KEY HERE"
+python app.py
